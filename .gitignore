@@ -1,0 +1,13 @@
+
+/checkpoints/
+/output/
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### IntilliJ ###
+/.idea/
+GANimation.iml
